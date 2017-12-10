@@ -1,4 +1,4 @@
-#function overloading - BASED ON FLUENT PYTHON BY LUCIANO RAMALHO
+#Higher Order Functions - BASED ON FLUENT PYTHON BY LUCIANO RAMALHO
 fruits = ['banana', 'apple' , 'pear', 'grape']
 
 #this reverses the word
